@@ -10,7 +10,7 @@ A machine learning regression project that predicts house prices based on area, 
 pip install -r requirements.txt
 python house_price_model.py
 ## Output
-R2 Score and RMSE are printed after model evaluation.
 House Price Prediction Model
-R2 Score: 0.85
-RMSE: 12000.0
+R2 Score: ~0.85
+RMSE: ~12000
+
